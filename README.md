@@ -85,3 +85,5 @@ More interest links are shown below:
 [debian-logo]: doc/images/debian.png
 [raspbian-logo]: doc/images/raspbian.png
 [fedora-logo]: doc/images/fedora.png
+
+Thanks
